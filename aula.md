@@ -17,9 +17,9 @@ Como um lego, voce ira utilizar pecas para criar algoritmos, ou seja, para resol
 
 # Fases da resolucao de um problema
 
-Coletar os dados
-Processar os dados (manipular, alterar ...)
-Apresentar os dados
+- Coletar os dados
+- Processar os dados (manipular, alterar ...)
+- Apresentar os dados
 
 ## Escopo e variaveis:
 
@@ -37,12 +37,14 @@ Apresentar os dados
 - [x] Operadores de atribuicao de valor: =
 - [x] Operador de contatenacao: +
 - [x] Operadores de comparacao: == != < > <= >=
+- [x] spread operator: ...
 
 ## Estrutura de dados:
 
 ### Arrays:
 
 - [x] Uma lista que contem qualquer tipo de dados
+- [x] Metodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos:
 
