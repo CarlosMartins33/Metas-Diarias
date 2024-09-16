@@ -44,7 +44,7 @@ Como um lego, voce ira utilizar pecas para criar algoritmos, ou seja, para resol
 ### Arrays:
 
 - [x] Uma lista que contem qualquer tipo de dados
-- [x] Metodos de array: push, [find, forEach, filter] : HOF (Higher Order Functions)
+- [x] Metodos de array: push, [find, forEach, filter, map] : HOF (Higher Order Functions)
 
 ### Objetos:
 
