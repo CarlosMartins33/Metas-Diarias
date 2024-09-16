@@ -71,6 +71,13 @@ Como um lego, voce ira utilizar pecas para criar algoritmos, ou seja, para resol
 
 - [x] Importacao de modulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
+- [x] FS (file system)
+
+## JSON
+
+- [x] Javascript Object Notation (.json)
+- [x] JSON.parse(): transforma de JSON para JS
+- [x] JSON.stringfy(): transforma de JS para JSON
 
 ## Programacao assincrona e promises:
 
